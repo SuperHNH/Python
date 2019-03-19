@@ -6,8 +6,13 @@ hello v2.0
 
 hello 30
 
-dev:Creating a new branch is quick.
+dev:Creating a free branch is quick.
 
 dev:Creating a new branch is quick AND simple.
 
 master:Creating a new branch is quick AND simple.
+
+work01:Creating a new branch is quick AND simple.
+
+work02:Creating a new branch is quick AND simple.
+work02:Creating a new branch is quick AND simple.
